@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 550 710" width="8.5in" height="11in" xmlns="http://www.w3.org/2000/svg" aria-labelledby="svgTitle" aria-describedby="svgDesc">
+  <title id="svgTitle">Khewat 202 Details</title>
+  <desc id="svgDesc">Complete details of land ownership from Khewat Number 202</desc>
+
+  <style>
+    text {
+      font-family: 'Inter', Arial, sans-serif;
+      dominant-baseline: middle;
+      text-anchor: middle;
+      fill: #333;
+    }
+    .title {
+      font-size: 28px;
+      font-weight: bold;
+    }
+    .legend-title {
+      font-size: 16px;
+      font-weight: bold;
+      text-anchor: middle; 
+    }
+    .table-header {
+        font-size: 11px;
+        font-weight: bold;
+        text-anchor: start;
+    }
+    .table-text { 
+      font-size: 10px;
+      text-anchor: start;
+    }
+  </style>
+
+  <text x="275" y="30" class="title">Khewat 202 Details</text>
+
+  <g id="khewat-202-details" transform="translate(35, 50)">
+    <rect x="0" y="0" width="480" height="390" fill="#ffffff" stroke="#ccc" stroke-width="1" rx="5" ry="5"/>
+    <text x="240" y="18" class="legend-title">Khewat 202 Details</text>
+    
+    <text y="40" class="table-header">
+        <tspan x="15">Grand Parent</tspan>
+        <tspan x="130">Name</tspan> 
+        <tspan x="350">Fard Area</tspan> 
+    </text>
+
+    <text y="55" class="table-text">
+        <tspan x="15">صالح محمد</tspan><tspan x="130">خان شمیر ولد صالح محمد</tspan><tspan x="350">34-19-0</tspan>
+    </text>
+    <text y="67" class="table-text">
+        <tspan x="15">صالح محمد</tspan><tspan x="130">پروین احتر دختر صالح محمد</tspan><tspan x="350">8-11-0</tspan>
+    </text>
+    <text y="79" class="table-text">
+        <tspan x="15">صالح محمد</tspan><tspan x="130">شمیم ما ئی دختر صالح محمد</tspan><tspan x="350">8-10-0</tspan>
+    </text>
+    <text y="91" class="table-text">
+        <tspan x="15">شاہ محمد</tspan><tspan x="130">علم الدین ولد شاہ محمد</tspan><tspan x="350">19-19-0</tspan>
+    </text>
+    <text y="103" class="table-text">
+        <tspan x="15">شاہ محمد</tspan><tspan x="130">قطب دین ولد شاہ محمد</tspan><tspan x="350">15-19-0</tspan>
+    </text>
+    <text y="115" class="table-text">
+        <tspan x="15">شان محمد</tspan><tspan x="130">سرمد علی ولد عبدالحکیم</tspan><tspan x="350">23-0-218</tspan>
+    </text>
+    <text y="127" class="table-text">
+        <tspan x="15">شان محمد</tspan><tspan x="130">ضماد علی ولد عبدالحکیم</tspan><tspan x="350">14-12-217</tspan>
+    </text>
+    <text y="139" class="table-text">
+        <tspan x="15">شان محمد</tspan><tspan x="130">ضما دعلی ولد حافظ عبدالحکیمارا ئیں</tspan><tspan x="350">6-16-0</tspan>
+    </text>
+    <text y="151" class="table-text">
+        <tspan x="15">شان محمد</tspan><tspan x="130">ماریہ کنول دختر حافظ عبدالحکیم</tspan><tspan x="350">3-14-109</tspan>
+    </text>
+    <text y="163" class="table-text">
+        <tspan x="15">شان محمد</tspan><tspan x="130">کنیز اختر زوجہ عبدالحکیم</tspan><tspan x="350">3-0-0</tspan>
+    </text>
+    <text y="175" class="table-text">
+        <tspan x="15">شان محمد</tspan><tspan x="130">عائشہ بی بی دختر شان محمد زوجہ محمد حنیف</tspan><tspan x="350">0-16-0</tspan>
+    </text>
+    <text y="187" class="table-text">
+        <tspan x="15">رفیع محمد</tspan><tspan x="130">شفیق احمد ولد رفیع محمد</tspan><tspan x="350">9-6-234</tspan>
+    </text>
+    <text y="199" class="table-text">
+        <tspan x="15">رفیع محمد</tspan><tspan x="130">جمیلہ بیگم بيوہ رفیع محمد</tspan><tspan x="350">6-0-35</tspan>
+    </text>
+    <text y="211" class="table-text">
+        <tspan x="15">رفیع محمد</tspan><tspan x="130">حافظ عتیق احمد نوید ولد رفیع محمد</tspan><tspan x="350">5-6-234</tspan>
+    </text>
+    <text y="223" class="table-text">
+        <tspan x="15">رفیع محمد</tspan><tspan x="130">روبینہ کوثر دختر رفیع محمد</tspan><tspan x="350">4-13-117</tspan>
+    </text>
+    <text y="235" class="table-text">
+        <tspan x="15">رفیع محمد</tspan><tspan x="130">زبیدہ عقیل دختر رفیع محمد</tspan><tspan x="350">4-13-117</tspan>
+    </text>
+    <text y="247" class="table-text">
+        <tspan x="15">رفیع محمد</tspan><tspan x="130">نائلہ کوثر دختر رفیع محمد</tspan><tspan x="350">4-13-117</tspan>
+    </text>
+    <text y="259" class="table-text">
+        <tspan x="15">رفیع محمد</tspan><tspan x="130">محمد طہٰ ولد لئیق احمد</tspan><tspan x="350">4-8-65</tspan>
+    </text>
+    <text y="271" class="table-text">
+        <tspan x="15">رفیع محمد</tspan><tspan x="130">فاطمہ احمد دختر لئیق احمد</tspan><tspan x="350">2-4-33</tspan>
+    </text>
+    <text y="283" class="table-text">
+        <tspan x="15">رفیع محمد</tspan><tspan x="130">جمیلہ بیگم بيوہ محمد رفیع شکوری</tspan><tspan x="350">1-11-39</tspan>
+    </text>
+    <text y="295" class="table-text">
+        <tspan x="15">رفیع محمد</tspan><tspan x="130">فرزانہ لئیق زوجہ لئیق احمدارا ئیں</tspan><tspan x="350">1-3-97</tspan>
+    </text>
+    <text y="307" class="table-text">
+        <tspan x="15">خوشی محمد</tspan><tspan x="130">محمد اشفاق ولد محمد مشتاق</tspan><tspan x="350">10-0-0</tspan>
+    </text>
+    <text y="319" class="table-text">
+        <tspan x="15">خوشی محمد</tspan><tspan x="130">محمد اشفاق ولد محمد مشتاقارائیں فتح پوریہ</tspan><tspan x="350">4-0-0</tspan>
+    </text>
+    <text y="331" class="table-text">
+        <tspan x="15">خوشی محمد</tspan><tspan x="130">محمد فیاض ولد محمد مشتاق</tspan><tspan x="350">4-0-0</tspan>
+    </text>
+    <text y="343" class="table-text">
+        <tspan x="15">خوشی محمد</tspan><tspan x="130">عیش محمد ولد خوشی محمد</tspan><tspan x="350">3-0-0</tspan>
+    </text>
+    <text y="355" class="table-text">
+        <tspan x="15">خوشی محمد</tspan><tspan x="130">محمد فیاض ولد محمد مشتاق</tspan><tspan x="350">2-0-0</tspan>
+    </text>
+    <text y="367" class="table-text">
+        <tspan x="15">خوشی محمد</tspan><tspan x="130">محمد مشتاق ولد خوشی محمد</tspan><tspan x="350">1-2-0</tspan>
+    </text>
+    <text y="380" class="table-header">
+        <tspan x="15">Total</tspan><tspan x="130"></tspan><tspan x="350">208-1-0</tspan>
+    </text>
+  </g>
+
+</svg>

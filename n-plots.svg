@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="50 -520 400 480" width="8.5in" height="10in" xmlns="http://www.w3.org/2000/svg" aria-labelledby="svgTitle" aria-describedby="svgDesc">
+  <title id="svgTitle">N-Plots - North Section</title>
+  <desc id="svgDesc">Northern plots N1-N5 with compass</desc>
+
+  <style>
+    text {
+      font-family: 'Inter', Arial, sans-serif;
+      dominant-baseline: middle;
+      text-anchor: middle;
+      fill: #333;
+    }
+    .plot-number {
+      font-size: 18px;
+      font-weight: bold;
+    }
+    .compass {
+      font-size: 20px;
+      font-weight: bold;
+    }
+    .caption {
+      font-size: 14px;
+      fill: #555;
+    }
+    .plot-group:hover > rect {
+      filter: brightness(95%);
+    }
+  </style>
+
+  <g id="compass-new" transform="translate(166.5, -260)">
+    <title>Compass Rose</title>
+    <circle cx="0" cy="0" r="45" fill="#ffffff" stroke="#333" stroke-width="1"/>
+    <line x1="0" y1="-40" x2="0" y2="-25" stroke="#333" stroke-width="2"/>
+    <polygon points="0,-40 -5,-30 5,-30" fill="#333"/>
+    <text x="0" y="-55" class="compass">S</text>
+    <line x1="0" y1="40" x2="0" y2="25" stroke="#333" stroke-width="1"/>
+    <text x="0" y="55" class="caption">N</text>
+    <line x1="40" y1="0" x2="25" y2="0" stroke="#333" stroke-width="1"/>
+    <text x="55" y="0" class="caption">W</text>
+    <line x1="-40" y1="0" x2="-25" y2="0" stroke="#333" stroke-width="1"/>
+    <text x="-55" y="0" class="caption">E</text>
+  </g>
+
+  <g id="plot-N4-new" class="plot-group">
+    <title>Plot N4</title>
+    <rect x="233" y="-460" width="134" height="80" fill="#ffffff" stroke="#333" stroke-width="1.5"/>
+    <text x="300" y="-435" class="plot-number">N4</text>
+  </g>
+  
+  <g id="plot-N5" class="plot-group">
+    <title>Plot N5</title>
+    <rect x="233" y="-380" width="134" height="80" fill="#ffffff" stroke="#333" stroke-width="1.5"/>
+    <text x="300" y="-355" class="plot-number">N5</text>
+  </g>
+  
+  <g id="plot-N1" class="plot-group">
+    <title>Plot N1</title>
+    <rect x="233" y="-300" width="134" height="80" fill="#ffffff" stroke="#333" stroke-width="1.5"/>
+    <text x="300" y="-275" class="plot-number">N1</text>
+  </g>
+  
+  <g id="plot-N2" class="plot-group">
+    <title>Plot N2</title>
+    <rect x="233" y="-220" width="134" height="80" fill="#ffffff" stroke="#333" stroke-width="1.5"/>
+    <text x="300" y="-195" class="plot-number">N2</text>
+  </g>
+  
+  <g id="plot-N3" class="plot-group">
+    <title>Plot N3</title>
+    <rect x="233" y="-140" width="134" height="80" fill="#ffffff" stroke="#333" stroke-width="1.5"/>
+    <text x="300" y="-115" class="plot-number">N3</text>
+  </g>
+
+</svg>
